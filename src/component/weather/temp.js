@@ -41,6 +41,8 @@ const Temp = () => {
     getWeatherInfo();
   }, []);
 
+  
+
   return (
     <>
       <div className="wrap">

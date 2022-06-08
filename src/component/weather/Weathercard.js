@@ -34,6 +34,7 @@ const Weathercard = ({
       }
     }
   }, [weathermood]);
+  
 
   // converting the seconds into time
   let sec = sunset;
